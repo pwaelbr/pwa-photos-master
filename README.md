@@ -2,6 +2,6 @@
 
 Projeto referente ao curso PWA.
 
-#Team
+## Team
  * Bruno Clementino
  * Elizabeth Naressi
